@@ -1,0 +1,84 @@
+h1, h2, h3, h4, li{
+    color: white;
+    margin-left: 30px;
+} 
+h5{
+    display: flex;
+    justify-content: center;
+}
+
+.bug{
+    margin-left: 60px;
+    margin-top: 50px;
+    list-style-type: none;
+}
+@font-face {
+    font-family: TypeWriter;
+    src: url(./media/Type\ Machine.ttf);
+    font-family: txt-paragrafo;
+    src: url(./media/OldNewspaperTypes.ttf);
+}
+
+h1, h2, h3, h4{
+    font-family: TypeWriter;
+}
+p, li{
+    font-family: ;
+}
+
+.boxblu{
+    height: 1400px;
+    background-color: rgba(0, 0, 91, 0.859);
+}
+.boxwhite{
+    height:1400px;
+    background-color: rgb(225, 239, 231);
+}
+.nome{
+    list-style-type: none;
+    font-size: 30px;
+    color: white;
+    margin-top: 400px;
+}
+
+.contact{
+    list-style-type: none;
+    color: white;
+    font-size: 20px;
+    margin-top: 50px;
+}
+#dai{
+    list-style-type: none;
+    margin-left: 60px;
+}
+/* PARTE BIANCA */
+
+.img-msc{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-left: -500px;
+    margin-top: 80px;
+}
+#para{
+    color: white;
+    list-style-type: none;
+}
+h5, p{
+    margin-bottom: 20px;
+}
+#tit-1{
+    margin-top: -300px;
+}
+#tit-2{
+    margin-top: 100px;
+}
+#tit-3{
+    margin-top: 80px;
+}    
+#tit-4{
+    margin-top: 80px;
+} 
+#tit-5{
+    margin-top: 80px;
+} 
